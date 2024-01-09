@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Henning
-- 👀 I’m a Master student in Astrophysics at the Argelander Institut für Astronomie in Bonn
-- 🌱 I’m currently trying to get familiar with GitHub in order to work on my Master thesis here. 
+- 👀 I’m a PhD student in Astrophysics at Institut für Astro- und Teilchenphysik in Innsbruck
+
 
 
 <!---
